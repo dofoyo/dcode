@@ -1,0 +1,4 @@
+rootPath: file:/c:/workspace/dcode-data/
+server.port: 8066
+httpPath: http://localhost
+
